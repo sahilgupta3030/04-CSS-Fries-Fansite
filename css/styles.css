@@ -1,0 +1,51 @@
+/* **************** Universal Selectors **************** */
+* {
+    margin: 20px;
+}
+
+/* **************** Tag Selectors **************** */
+body {
+    background-color: navajowhite;
+}
+
+h1 {
+    color: magenta;
+    font-size: 150px;
+    margin: 0%;
+}
+
+img {
+    background-color: chartreuse;
+    height: 400px;
+    width: 400px;
+}
+
+
+/* **************** Pseudo Selectors **************** */
+img:hover {
+    background-color: paleturquoise;
+}
+
+
+/* **************** Class Selectors **************** */
+.friess {
+    background-color: brown;
+}
+
+.pizzaa {
+    background-color: darkcyan;
+}
+
+.round {
+    border-radius: 80%;
+}
+
+.corner-round {
+    border-radius: 15%;
+}
+
+
+/* **************** Class Selectors **************** */
+#head001 {
+    color: green;
+}
